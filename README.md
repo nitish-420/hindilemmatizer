@@ -1,7 +1,7 @@
 # hindilemmatizer
 Hindi Lemmatizer using a hybrid approach.
 
-#PyPI Package
+# PyPI Package
 A package named "hindilemmatizer" is made for using this.
 
 # hindilemmatizer
